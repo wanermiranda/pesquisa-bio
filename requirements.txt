@@ -1,0 +1,9 @@
+matplotlib
+pandas
+numpy
+sns
+statsmodels
+scipy
+sklearn
+nbconvert
+nbconvert[webpdf]
