@@ -4,6 +4,8 @@ numpy
 sns
 statsmodels
 scipy
-sklearn
+scikit-learn
 nbconvert
 nbconvert[webpdf]
+openpyxl 
+termcolor
